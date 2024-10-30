@@ -1,0 +1,469 @@
+{
+    "user_id": "2398",
+    "option": "get",
+    "guest_id": 2398,
+    "owner": true,
+    "title": "Highight Reel - playertest",
+    "position": {"x": 370, "y": 370},
+    "hReelArr": [
+        {
+            "sMin": 54,
+            "sSec": 35,
+            "eMin": 54,
+            "eSec": 45,
+            "sTime": 3275,
+            "eTime": 3285,
+            "matchId": "8407",
+            "highlightArr": [
+                {
+                    "id": 5772,
+                    "title": "Touch"
+                }
+            ],
+            "highlightId": "8407-1650663747595",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8407-1650663747595-t1650663803.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8407.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8407-00001.png",
+            "teamName": "kp 1",
+            "teamScore": "",
+            "jerseyNumber": "",
+            "teamColor": "",
+            "compName": "kp 2",
+            "compScore": "",
+            "compColor": "",
+            "matchMonth": "09",
+            "matchDay": "15",
+            "matchYear": "2008",
+            "highlightDescription": "test- ryan",
+            "marker": {
+                "mark_position_left": 297.5,
+                "img_width": "42%",
+                "mark_position_top": 243,
+                "mark_position_width": 805.328,
+                "mark_position_height": 452.992,
+                "highlightId": "8407-1650663747595",
+                "markTime": 3275.510155
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8407-1650663747595-t1650663803.fmp4.m3u8"
+        },
+        {
+            "sMin": 0,
+            "sSec": 5,
+            "eMin": 0,
+            "eSec": 15,
+            "sTime": 5,
+            "eTime": 15,
+            "matchId": "8419",
+            "highlightArr": [
+                {
+                    "id": 5764,
+                    "title": "Heading"
+                }
+            ],
+            "highlightId": "8419-1650642813499",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8419-1650642813499-t1650642855.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8419.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8419-00001.png",
+            "teamName": "tait 11",
+            "teamScore": "1",
+            "jerseyNumber": "",
+            "teamColor": "black",
+            "compName": "tait 21",
+            "compScore": "1",
+            "compColor": "gray-50",
+            "matchMonth": "10",
+            "matchDay": "16",
+            "matchYear": "2007",
+            "highlightDescription": "New 1",
+            "marker": {
+                "mark_position_left": 168,
+                "img_width": "20%",
+                "mark_position_top": 225.99999696016312,
+                "mark_position_width": 964.8,
+                "mark_position_height": 542.7,
+                "highlightId": "8419-1650642813499",
+                "markTime": 5.509506
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8419-1650642813499-t1650642855.fmp4.m3u8"
+        },
+        {
+            "sMin": 13,
+            "sSec": 30,
+            "eMin": 13,
+            "eSec": 40,
+            "sTime": 810,
+            "eTime": 820,
+            "matchId": "8433",
+            "highlightArr": [
+                {
+                    "id": 5772,
+                    "title": "Touch"
+                }
+            ],
+            "highlightId": "8433-1650661378203",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8433-1650661378203-t1650661461.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8433.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8433-00001.png",
+            "teamName": "CLT Eagles",
+            "teamScore": "",
+            "jerseyNumber": "",
+            "teamColor": "yellow-500",
+            "compName": "Florida",
+            "compScore": "",
+            "compColor": "",
+            "matchMonth": "03",
+            "matchDay": "04",
+            "matchYear": "2022",
+            "highlightDescription": "test",
+            "marker": {
+                "mark_position_left": 181.5,
+                "img_width": "23%",
+                "mark_position_top": 212,
+                "mark_position_width": 805.328,
+                "mark_position_height": 452.992,
+                "highlightId": "8433-1650661378203",
+                "markTime": 810.510449
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8433-1650661378203-t1650661461.fmp4.m3u8"
+        },
+        {
+            "sMin": 62,
+            "sSec": 8,
+            "eMin": 62,
+            "eSec": 18,
+            "sTime": 3728,
+            "eTime": 3738,
+            "matchId": "8407",
+            "highlightArr": [
+                {
+                    "id": 5772,
+                    "title": "Touch"
+                }
+            ],
+            "highlightId": "8407-1650663321901",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8407-1650663321901-t1650663524.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8407.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8407-00001.png",
+            "teamName": "kp 1",
+            "teamScore": "",
+            "jerseyNumber": "",
+            "teamColor": "",
+            "compName": "kp 2",
+            "compScore": "",
+            "compColor": "",
+            "matchMonth": "09",
+            "matchDay": "15",
+            "matchYear": "2008",
+            "highlightDescription": "test- ryan",
+            "marker": {
+                "mark_position_left": 281.5,
+                "img_width": "19%",
+                "mark_position_top": 259,
+                "mark_position_width": 805.328,
+                "mark_position_height": 452.992,
+                "highlightId": "8407-1650663321901",
+                "markTime": 3728.500318
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8407-1650663321901-t1650663524.fmp4.m3u8"
+        },
+        {
+            "sMin": 10,
+            "sSec": 10,
+            "eMin": 10,
+            "eSec": 20,
+            "sTime": 610,
+            "eTime": 620,
+            "matchId": "8433",
+            "highlightArr": [
+                {
+                    "id": 5772,
+                    "title": "Touch"
+                }
+            ],
+            "highlightId": "8433-1650661190253",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8433-1650661190253-t1650661477.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8433.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8433-00001.png",
+            "teamName": "CLT Eagles",
+            "teamScore": "",
+            "jerseyNumber": "",
+            "teamColor": "yellow-500",
+            "compName": "Florida",
+            "compScore": "",
+            "compColor": "",
+            "matchMonth": "03",
+            "matchDay": "04",
+            "matchYear": "2022",
+            "highlightDescription": "test",
+            "marker": {
+                "mark_position_left": 372.5,
+                "img_width": "62%",
+                "mark_position_top": 326,
+                "mark_position_width": 805.328,
+                "mark_position_height": 452.992,
+                "highlightId": "8433-1650661190253",
+                "markTime": 610.501829
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8433-1650661190253-t1650661477.fmp4.m3u8"
+        },
+        {
+            "sMin": 0,
+            "sSec": 1,
+            "eMin": 0,
+            "eSec": 15,
+            "sTime": 1,
+            "eTime": 15,
+            "matchId": "8419",
+            "highlightArr": [
+                {
+                    "id": 5763,
+                    "title": "Goal"
+                },
+                {
+                    "id": 5764,
+                    "title": "Heading"
+                },
+                {
+                    "id": 6729,
+                    "title": "Dribbling"
+                }
+            ],
+            "highlightId": "8419-1649855435902",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://d2kg8gc8aisozu.cloudfront.net/8419-1649855435902-t1667807861.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8419.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8419-00001.png",
+            "teamName": "tait 11",
+            "teamScore": "1",
+            "jerseyNumber": "",
+            "teamColor": "black",
+            "compName": "tait 21",
+            "compScore": "1",
+            "compColor": "gray-50",
+            "matchMonth": "10",
+            "matchDay": "16",
+            "matchYear": "2007",
+            "highlightDescription": "test 5",
+            "marker": {
+                "mark_position_left": 592.5,
+                "img_width": "20%",
+                "mark_position_top": 246,
+                "mark_position_width": 805.328,
+                "mark_position_height": 452.984,
+                "highlightId": "8419-1649855435902",
+                "markTime": 1.543135
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8419-1649855435902-t1667807861.fmp4.m3u8"
+        },
+        {
+            "sMin": 0,
+            "sSec": 4,
+            "eMin": 0,
+            "eSec": 13,
+            "sTime": 4,
+            "eTime": 13,
+            "matchId": "19874",
+            "highlightArr": [
+                {
+                    "id": 5762,
+                    "title": "Cross"
+                },
+                {
+                    "id": 5769,
+                    "title": "Set Piece"
+                },
+                {
+                    "id": 5763,
+                    "title": "Goal"
+                }
+            ],
+            "highlightId": "19874-1706205009342",
+            "highlightReelOption": "",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://d2kg8gc8aisozu.cloudfront.net/19874-1706205009342-t1706205079.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/19874.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/19874-00001.png",
+            "teamName": "",
+            "teamScore": "",
+            "jerseyNumber": "",
+            "teamColor": "",
+            "compName": "",
+            "compScore": "",
+            "compColor": "",
+            "matchMonth": "",
+            "matchDay": "",
+            "matchYear": "",
+            "highlightDescription": "Goal from corner kick",
+            "marker": {
+                "mark_position_left": 555,
+                "img_width": "38%",
+                "mark_position_top": 336,
+                "mark_position_width": 853.328,
+                "mark_position_height": 479.984,
+                "highlightId": "19874-1706205009342",
+                "markTime": 4.502803
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/19874-1706205009342-t1706205079.fmp4.m3u8"
+        },
+        {
+            "sMin": 2,
+            "sSec": 0,
+            "eMin": 2,
+            "eSec": 30,
+            "sTime": 120,
+            "eTime": 150,
+            "matchId": "25707",
+            "highlightArr": [
+                {
+                    "id": 5760,
+                    "title": "Assist"
+                },
+                {
+                    "id": 5764,
+                    "title": "Heading"
+                }
+            ],
+            "highlightId": "25707-1717135378824",
+            "highlightReelOption": "addReel",
+            "highlightReelAdded": "1",
+            "highlightS3Url": "https://d2kg8gc8aisozu.cloudfront.net/25707-1717135378824-t1723551539.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/25707.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/25707-00001.png",
+            "teamName": "Netherland",
+            "teamScore": "1",
+            "jerseyNumber": "",
+            "teamColor": "gray-50",
+            "compName": "Span",
+            "compScore": "2",
+            "compColor": "red-500",
+            "matchMonth": "07",
+            "matchDay": "17",
+            "matchYear": "2018",
+            "highlightDescription": "new 1",
+            "marker": {
+                "mark_position_left": 601,
+                "img_width": "20%",
+                "mark_position_top": 181,
+                "mark_position_width": 1012.8,
+                "mark_position_height": 569.7,
+                "highlightId": "25707-1717135378824",
+                "markTime": 120.51911
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/25707-1717135378824-t1723551539.fmp4.m3u8"
+        },
+        {
+            "sMin": 0,
+            "sSec": 12,
+            "eMin": 0,
+            "eSec": 17,
+            "sTime": 12,
+            "eTime": 17,
+            "matchId": "8395",
+            "highlightArr": [
+                {
+                    "id": 5765,
+                    "title": "Off Ball Movement"
+                },
+                {
+                    "id": 5766,
+                    "title": "Pass"
+                },
+                {
+                    "id": 5769,
+                    "title": "Set Piece"
+                }
+            ],
+            "highlightId": "8395-1649140647341",
+            "highlightReelOption": "",
+            "highlightReelAdded": 1,
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8395-1649140647341-t1724319428.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8395.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8395-00001.png",
+            "teamName": "c1",
+            "teamScore": "",
+            "jerseyNumber": "",
+            "teamColor": "",
+            "compName": "d1",
+            "compScore": "",
+            "compColor": "",
+            "matchMonth": "12",
+            "matchDay": "31",
+            "matchYear": "2006",
+            "highlightDescription": "multiple tags",
+            "marker": {
+                "mark_position_left": 579,
+                "img_width": "20%",
+                "mark_position_top": 275,
+                "mark_position_width": 976,
+                "mark_position_height": 549,
+                "highlightId": "8395-1649140647341",
+                "markTime": 12.563426
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8395-1649140647341-t1724319428.fmp4.m3u8"
+        },
+        {
+            "sMin": 0,
+            "sSec": 1,
+            "eMin": 0,
+            "eSec": 7,
+            "sTime": 1,
+            "eTime": 7,
+            "matchId": "8277",
+            "highlightArr": [
+                {
+                    "id": 5763,
+                    "title": "Goal"
+                }
+            ],
+            "highlightId": "8277-1639722142395",
+            "highlightReelOption": "",
+            "highlightReelAdded": 1,
+            "highlightS3Url": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8277-1639722142395-t1724331068.fmp4.m3u8",
+            "userId": "2398",
+            "matchUrl": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8277.mp4",
+            "matchS3Thumb": "https://sportsreelz-output.s3-ap-south-1.amazonaws.com/8277-00001.png",
+            "teamName": "new",
+            "teamScore": "2",
+            "jerseyNumber": "2",
+            "teamColor": "green-500",
+            "compName": "old",
+            "compScore": "4",
+            "compColor": "purple-500",
+            "matchMonth": "11",
+            "matchDay": "19",
+            "matchYear": "2004",
+            "highlightDescription": "Testing",
+            "marker": {
+                "mark_position_left": 155,
+                "img_width": "58%",
+                "mark_position_top": 74,
+                "mark_position_width": 390,
+                "mark_position_height": 219,
+                "highlightId": "8277-1639722142395",
+                "markTime": 1.5102379399755361
+            },
+            "cloudFront": "https://d2kg8gc8aisozu.cloudfront.net/8277-1639722142395-t1724331068.fmp4.m3u8"
+        }
+    ],
+    "plan": "price_1Iv05KArgHgtgrgzsjyNSfp1"
+}

@@ -1,0 +1,13 @@
+supervision
+ffmpeg
+opencv-python-headless
+torch
+numpy
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
+python-multipart
+Pillow
+requests
+
